@@ -1,0 +1,33 @@
+@media only screen and (min-width: 1519px) {
+    .flex-button {
+        box-sizing: border-box;
+    }
+    
+    .radio {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .radiobutton {
+        background-color: rgb(1, 34, 105);
+        border-radius: 100px 0 0 100px;
+        padding: 20px;
+    }
+    
+    .stream {
+        background-color: rgb(1, 34, 105);
+        border-radius: 0 100px 100px 0;
+    }
+    
+    .stream h3 {
+        padding: 26.5px;
+        font-size: large;
+        color: white;
+        font-style: inherit;
+    }
+    
+    audio {
+        height: 30px;
+    }
+}

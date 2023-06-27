@@ -1,0 +1,67 @@
+[
+    {
+        "image": {
+            "src": "interest/Jujutsu.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Jujutsu Kaisen Volume 8"
+    },
+    {
+        "image": {
+            "src": "interest/Rasina.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Rasina"
+    },
+    {
+        "image": {
+            "src": "interest/PANGGIL-AKU-KARTINI-SAJA-ed.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Panggil Aku Kartini Saja"
+    },
+    {
+        "image": {
+            "src": "interest/Clavis_Mundi.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Clavis Mundi: Legenda Enrique Maluku, Pengeliling Dunia Pertama"
+    },
+    {
+        "image": {
+            "src": "interest/Cover_Kembalilah_Allah_Merindukanmu.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Kembalilah, Allah Merindukanmu"
+    },
+    {
+        "image": {
+            "src": "interest/The-Burning-god.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "The Burning God (Sang Dewi Api)"
+    },
+    {
+        "image": {
+            "src": "interest/wabi-sabi.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "Wabi Sabi: Seni Menemukan Keindahan dalam Ketidaksempurnaan"
+    },
+    {
+        "image": {
+            "src": "interest/your-not-as-alone.jpg",
+            "width": 180,
+            "height": 248
+        },
+        "title": "You’re Not As Alone As You Think: The Stories of Choo Choo"
+    }
+    
+]

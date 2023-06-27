@@ -1,0 +1,44 @@
+@media only screen and (min-width: 1519px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+     }
+    
+    .beritacontain {
+        display: flex;
+        align-items: top;
+        justify-content: center;
+        padding: 0 35px;
+    }
+    
+    .wrapberita{
+        max-width: 1300px;
+        width: 100%;
+        margin-top: 0;
+    }
+    
+    .wrapberita .beritabaru {
+        display: grid;
+        grid-auto-flow: column;
+        grid-auto-columns: calc((100%/3) - 12px);
+        gap: 16px;
+        overflow: hidden;
+    }
+    
+    .scicar {
+        list-style: none;
+    }
+    
+     .row .col-lg-3{
+        padding: 10px;
+        height: 400px;
+        background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+     }
+    
+     .row .col-lg-3 h5,h3 {
+        margin-left: 10px;
+     }
+    
+}

@@ -1,0 +1,44 @@
+@media only screen and (min-width: 1519px) {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+     }
+    
+    .scifi {
+        display: flex;
+        align-items: top;
+        justify-content: center;
+        padding: 0 35px;
+    }
+    
+    .sciwrap{
+        max-width: 1000px;
+        width: 100%;
+        margin-top: 0;
+    }
+    
+    .sciwrap .scicar {
+        display: grid;
+        grid-auto-flow: column;
+        grid-auto-columns: calc((100%/4) - 12px);
+        gap: 16px;
+        overflow: hidden;
+    }
+    
+    .scicar {
+        list-style: none;
+    }
+    
+    .scicar.dragging2 .card2{
+        cursor: grab;
+    }
+    
+     .card2 .img2{
+        padding: 10px;
+        height: 300px;
+        background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+     }
+    
+}
