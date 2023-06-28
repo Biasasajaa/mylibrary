@@ -1,4 +1,4 @@
-@media only screen and (min-width: 1519px) {
+
   .head {
     display: flex;
     align-items: center;
@@ -71,23 +71,19 @@
     cursor: pointer;
  }
 
- #navbar {
+ .navbar {
     background-color: rgb(0, 15, 46);
     margin: 0;
   }
   
   .content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     padding: 10px;
     margin: 0 50px;
     overflow: hidden;
   }
-  .isi-navbar {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+  .isi-navbar img {
+    display: none;
   }
   
   a {
@@ -194,8 +190,65 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+@media only screen and (min-width: 1219px){
+  .isi-navbar #imgnav {
+    display: none;
+  }
+
+  .isi-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
-@media only screen and (min-width: 820) {
-  
+@media only screen and (max-width: 820px) {
+  .head {
+    display: none;
+  }
+
+  .isi-navbar img{
+    width: 100px;
+    display: grid;
+    padding: 20px;
+  }
+
+  .isi-navbar a, .dropdown, button {
+    display: none;
+  }
+
+  .isi-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .toggle-btn {
+    display: block;
+    cursor: pointer;
+  }
+
+  .toggle-btn .line {
+    width: 30px;
+    height: 3px;
+    background: #fefefe;
+    margin: 6px 0;
+  }
+
+  .nav-bar {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    background-color: rgb(0, 15, 46);
+    transition: 0.2s;
+  }
 }
