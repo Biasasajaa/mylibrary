@@ -1,66 +1,34 @@
 [
     {
-        "image": {
-            "src": "interest/Jujutsu.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/Jujutsu.jpg",
         "title": "Jujutsu Kaisen Volume 8"
     },
     {
-        "image": {
-            "src": "interest/Rasina.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/Rasina.jpg",
         "title": "Rasina"
     },
     {
-        "image": {
-            "src": "interest/PANGGIL-AKU-KARTINI-SAJA-ed.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/PANGGIL-AKU-KARTINI-SAJA-ed.jpg",
         "title": "Panggil Aku Kartini Saja"
     },
     {
-        "image": {
-            "src": "interest/Clavis_Mundi.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/Clavis_Mundi.jpg",
         "title": "Clavis Mundi: Legenda Enrique Maluku, Pengeliling Dunia Pertama"
     },
     {
-        "image": {
-            "src": "interest/Cover_Kembalilah_Allah_Merindukanmu.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/Cover_Kembalilah_Allah_Merindukanmu.jpg",
         "title": "Kembalilah, Allah Merindukanmu"
     },
     {
-        "image": {
-            "src": "interest/The-Burning-god.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/The-Burning-god.jpg",
         "title": "The Burning God (Sang Dewi Api)"
     },
     {
-        "image": {
-            "src": "interest/wabi-sabi.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/wabi-sabi.jpg",
         "title": "Wabi Sabi: Seni Menemukan Keindahan dalam Ketidaksempurnaan"
     },
     {
-        "image": {
-            "src": "interest/your-not-as-alone.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "interest/your-not-as-alone.jpg",
         "title": "You’re Not As Alone As You Think: The Stories of Choo Choo"
     }
     

@@ -10,7 +10,7 @@ fetch("Interests.json")
         <li class="card">
         <center>
             <div class="img">
-                <img src="${Interest.image.src}" style="width: ${Interest.image.width}px; height: ${Interest.image.height}px;">
+                <img src="${Interest.image}">
                 <br>
                 <h5 style="color: rgb(1,34,105);">${Interest.title}</h5>
             </div>
