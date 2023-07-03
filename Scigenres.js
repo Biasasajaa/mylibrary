@@ -10,7 +10,7 @@ fetch("Scigenres.json")
         <li class="card2">
         <center>
             <div class="img2">
-                <img src="${genre.image.src}" style="width: ${genre.image.width}px; height: ${genre.image.height}px;">
+                <img src="${genre.image}">
                 <br>
                 <h5 style="color: rgb(1,34,105);">${genre.title}</h5>
             </div>

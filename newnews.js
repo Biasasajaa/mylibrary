@@ -10,7 +10,7 @@ fetch("newnews.json")
         <li class="row">
             <div class="col-lg-3">
                 <center>
-                <img src="${newnew.image.src}" style="width: ${newnew.image.width}px; height: ${newnew.image.height}px;">
+                <img src="${newnew.image}">
                 </center>
                 <br><br>
                 <h5 style="color: grey;">${newnew.date}</h5><br>

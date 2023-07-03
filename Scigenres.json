@@ -1,82 +1,42 @@
 [
     {
-        "image": {
-            "src": "Scifi/Balada Burung Penyanyi dan Ular (The Ballad of Songbirds and Snakes).jpeg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Balada Burung Penyanyi dan Ular (The Ballad of Songbirds and Snakes).jpeg",
         "title": "Balada Burung Penyanyi dan Ular (The Ballad of Songbirds and Snakes)"
     },
     {
-        "image": {
-            "src": "Scifi/Destination-Jakarta-2040.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Destination-Jakarta-2040.jpg",
         "title": "Destination : Jakarta 2040"
     },
     {
-        "image": {
-            "src": "Scifi/Project-Hai-Mary.jpeg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Project-Hai-Mary.jpeg",
         "title": "Project Hail Mary"
     },
     {
-        "image": {
-            "src": "Scifi/Ready-player-one.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Ready-player-one.jpg",
         "title": "Ready Player One"
     },
     {
-        "image": {
-            "src": "Scifi/Bumi.jpeg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Bumi.jpeg",
         "title": "Serial Bumi"
     },
     {
-        "image": {
-            "src": "Scifi/Dune.jpeg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Dune.jpeg",
         "title": "Dune"
     },
     {
-        "image": {
-            "src": "Scifi/Divergen.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Divergen.jpg",
         "title": "Divergent"
     },
     {
-        "image": {
-            "src": "Scifi/Contact.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/Contact.jpg",
         "title": "Contact (Kontak)"
     },
     {
-        "image": {
-            "src": "Scifi/the-5th-wave.jpeg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/the-5th-wave.jpeg",
         "title": "The 5th Wave (Gelombang 5)"
     },
     {
-        "image": {
-            "src": "Scifi/the-time-machine.jpg",
-            "width": 180,
-            "height": 248
-        },
+        "image": "Scifi/the-time-machine.jpg",
         "title": "The Time Machine (Mesin Waktu)"
     }
     

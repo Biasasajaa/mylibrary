@@ -1,28 +1,16 @@
 [
     {
-        "image": {
-            "src": "berita/buku-sby-pilpres-2024-cawe-cawe-presiden-jokowi-dok-istimewa_169.jpeg",
-            "width": 363,
-            "height": 253
-        },
+        "image": "berita/buku-sby-pilpres-2024-cawe-cawe-presiden-jokowi-dok-istimewa_169.jpeg",
         "date": "Senin, 26 Jun 2023",
         "title": "Didominasi Merah-Hitam, Ini Buku SBY soal Pilpres dan Cawe-cawe Jokowi"
     },
     {
-        "image": {
-            "src": "berita/syarief-hasan.jpeg",
-            "width": 363,
-            "height": 253
-        },
+        "image": "berita/syarief-hasan.jpeg",
         "date": "Sabtu, 17 Jun 2023",
         "title": "Luncurkan Buku Baru, Syarief Hasan Bicara Ide-Gagasan Wakil Rakyat"
     },
     {
-        "image": {
-            "src": "berita/asyiknya-baca-buku-di-bawah-pohon-rindang-taman-kota-3_169.jpeg",
-            "width": 363,
-            "height": 253
-        },
+        "image": "berita/asyiknya-baca-buku-di-bawah-pohon-rindang-taman-kota-3_169.jpeg",
         "date": "Jumat, 09 Jun 2023",
         "title": "Membaca di Ruang Publik: Perang Kecil Melawan Mesin-Mesin"
     }   
